@@ -1,0 +1,29 @@
+Reference, Value, Footprint, Datasheet, MPN
+C1,10uF,Capacitor_SMD:C_1210_3225Metric,~,C3225X5R1H106K250AB
+C2,1uF,Capacitor_SMD:C_1206_3216Metric,~,C3216X7R1H105K160AE
+C3,22nF,Capacitor_SMD:C_0805_2012Metric,~,C2012X7R2A223K125AE
+C4,22nF,Capacitor_SMD:C_0805_2012Metric,~,C2012X7R2A223K125AE
+C5,100uF,Capacitor_SMD:C_1206_3216Metric,~,C3216X5R0J107M160AB
+C6,1uF,Capacitor_SMD:C_1206_3216Metric,~,C3216X7R1H105K160AE
+CONN1,PWR IN,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",~,1725656
+CONN2,PWR OUT,"TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal",~,1725656
+FID1,Fiducial,Fiducial:Fiducial_0.5mm_Mask1.5mm,~,
+FID2,Fiducial,Fiducial:Fiducial_0.5mm_Mask1.5mm,~,
+FID3,Fiducial,Fiducial:Fiducial_0.5mm_Mask1.5mm,~,
+H1,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,
+H2,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,
+H3,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,
+H4,MountingHole_Pad,MountingHole:MountingHole_3.2mm_M3_Pad_Via,~,
+R1,32.4k,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-0732K4L
+R2,11.8k,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-0711K8L
+R3,32.4k,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-0732K4L
+R4,1.87k,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-071K87L
+R5,1.50k,Resistor_SMD:R_0805_2012Metric,~,RC0805FR-071K5L
+TP1,VCC,TestPoint:TestPoint_Pad_D2.0mm,~,
+TP2,RON,TestPoint:TestPoint_Pad_D2.0mm,~,
+TP3,EN,TestPoint:TestPoint_Pad_D2.0mm,~,
+TP4,GND,TestPoint:TestPoint_Keystone_5010-5014_Multipurpose,~,5011
+TP5,SS,TestPoint:TestPoint_Pad_D2.0mm,~,
+TP6,OUT,TestPoint:TestPoint_Pad_D2.0mm,~,
+TP7,FB,TestPoint:TestPoint_Pad_D2.0mm,~,
+U1,LMZ12003TZX,Package_TO_SOT_SMD:TO-263-7_TabPin8,~,LMZ12003TZX-ADJ/NOPB

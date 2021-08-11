@@ -1,0 +1,259 @@
+Cmp-Mod V01 Created by PcbNew   date = mar 21 abr 2020 01:39:20 CEST
+
+BeginCmp
+TimeStamp = 5E9E17D0
+Path = /5EA047AC
+Reference = TP7;
+ValeurCmp = FB;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE6C1
+Path = /5EA1AB14
+Reference = TP6;
+ValeurCmp = OUT;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE6B4
+Path = /5E9FEA7B
+Reference = TP5;
+ValeurCmp = SS;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE69A
+Path = /5E9FB0E5
+Reference = TP3;
+ValeurCmp = EN;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CEEE2
+Path = /5E9EF1A4
+Reference = TP2;
+ValeurCmp = RON;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE680
+Path = /5E9E0B3B
+Reference = TP1;
+ValeurCmp = VCC;
+IdModule  = TestPoint:TestPoint_Pad_D2.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D5511
+Path = 
+Reference = REF**;
+ValeurCmp = WEEE-Logo_4.2x6mm_SilkScreen;
+IdModule  = Symbol:WEEE-Logo_4.2x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D4EBF
+Path = 
+Reference = REF**;
+ValeurCmp = OSHW-Logo2_7.3x6mm_SilkScreen;
+IdModule  = Symbol:OSHW-Logo2_7.3x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D4E32
+Path = 
+Reference = REF**;
+ValeurCmp = KiCad-Logo2_5mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_5mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D4DA7
+Path = 
+Reference = REF**;
+ValeurCmp = ESD-Logo_6.6x6mm_SilkScreen;
+IdModule  = Symbol:ESD-Logo_6.6x6mm_SilkScreen;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE57D
+Path = /5E9E30BE
+Reference = C1;
+ValeurCmp = 10uF;
+IdModule  = Capacitor_SMD:C_1210_3225Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE58E
+Path = /5E9A81C2
+Reference = C2;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_SMD:C_1206_3216Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CF0DC
+Path = /5E9ABE80
+Reference = C3;
+ValeurCmp = 22nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE5B0
+Path = /5E9FF547
+Reference = C4;
+ValeurCmp = 22nF;
+IdModule  = Capacitor_SMD:C_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE5C1
+Path = /5E9C5936
+Reference = C5;
+ValeurCmp = 100uF;
+IdModule  = Capacitor_SMD:C_1206_3216Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D5884
+Path = /5E9D630A
+Reference = CONN1;
+ValeurCmp = PWR IN;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE61E
+Path = /5EA1BA51
+Reference = CONN2;
+ValeurCmp = PWR OUT;
+IdModule  = TerminalBlock_Phoenix:TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE62F
+Path = /5E9F1302
+Reference = R1;
+ValeurCmp = 32.4k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CEFD7
+Path = /5E9AADE3
+Reference = R2;
+ValeurCmp = 11.8k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE651
+Path = /5E9A949F
+Reference = R3;
+ValeurCmp = 32.4k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE662
+Path = /5E9AF1BF
+Reference = R4;
+ValeurCmp = 1.87k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE673
+Path = /5E9B17A8
+Reference = R5;
+ValeurCmp = 1.50k;
+IdModule  = Resistor_SMD:R_0805_2012Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CE6A7
+Path = /5EA35318
+Reference = TP4;
+ValeurCmp = GND;
+IdModule  = TestPoint:TestPoint_Keystone_5010-5014_Multipurpose;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9DD638
+Path = /5E9CEF45
+Reference = U1;
+ValeurCmp = LMZ12003TZX;
+IdModule  = Package_TO_SOT_SMD:TO-263-7_TabPin8;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CF44D
+Path = /5EA0C60F
+Reference = C6;
+ValeurCmp = 1uF;
+IdModule  = Capacitor_SMD:C_1206_3216Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CF455
+Path = /5EA4D2FD
+Reference = FID1;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_0.5mm_Mask1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CF45D
+Path = /5EA4E658
+Reference = FID2;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_0.5mm_Mask1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9CF465
+Path = /5EA4E2F5
+Reference = FID3;
+ValeurCmp = Fiducial;
+IdModule  = Fiducial:Fiducial_0.5mm_Mask1.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D6F3D
+Path = /5EA525CC
+Reference = H1;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D6F4C
+Path = /5EA51AC4
+Reference = H2;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D6F5B
+Path = /5EA52D5C
+Reference = H3;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+BeginCmp
+TimeStamp = 5E9D6F6A
+Path = /5EA521CA
+Reference = H4;
+ValeurCmp = MountingHole_Pad;
+IdModule  = MountingHole:MountingHole_3.2mm_M3_Pad_Via;
+EndCmp
+
+EndListe

@@ -1,0 +1,10 @@
+*transient response
+.include ../AE01.07.16.044.cir
+.param VIN=6
+.param RLOAD=1.8
+.param RON=32.4k
+.param REN_ADJ=32.4k
+.param REN_REF=11.8k
+.param RFB_ADJ=1.87k
+.param RFB_REF=1.50k
+.tran 0 0.4m 0 ;startup ;uic

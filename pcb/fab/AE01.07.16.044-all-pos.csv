@@ -1,0 +1,16 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+C1,10uF,C_1210_3225Metric,138.684,-82.55,90,top
+C2,1uF,C_1206_3216Metric,144.272,-82.55,90,top
+C3,22nF,C_0805_2012Metric,153.162,-93.726,180,top
+C4,22nF,C_0805_2012Metric,160.528,-88.9,270,top
+C5,100uF,C_1206_3216Metric,160.528,-82.55,90,top
+C6,1uF,C_1206_3216Metric,165.608,-82.55,90,top
+FID1,Fiducial,Fiducial_0.5mm_Mask1.5mm,130.048,-74.676,0,top
+FID2,Fiducial,Fiducial_0.5mm_Mask1.5mm,167.64,-66.04,0,top
+FID3,Fiducial,Fiducial_0.5mm_Mask1.5mm,175.26,-103.632,0,top
+R1,32.4k,R_0805_2012Metric,141.732,-88.9,270,top
+R2,11.8k,R_0805_2012Metric,141.732,-92.71,270,top
+R3,32.4k,R_0805_2012Metric,144.272,-88.9,90,top
+R4,1.87k,R_0805_2012Metric,163.068,-88.9,270,top
+R5,1.50k,R_0805_2012Metric,163.068,-92.71,270,top
+U1,LMZ12003TZX,TO-263-7_TabPin8,152.4,-79.756,90,top

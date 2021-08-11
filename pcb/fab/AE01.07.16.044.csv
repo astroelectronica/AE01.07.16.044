@@ -1,0 +1,25 @@
+Id;Designator;Package;Quantity;Designation;Supplier and ref
+1;TP7;TestPoint_Pad_D2.0mm;1;FB;
+2;TP6;TestPoint_Pad_D2.0mm;1;OUT;
+3;TP5;TestPoint_Pad_D2.0mm;1;SS;
+4;TP3;TestPoint_Pad_D2.0mm;1;EN;
+5;TP2;TestPoint_Pad_D2.0mm;1;RON;
+6;TP1;TestPoint_Pad_D2.0mm;1;VCC;
+7;REF**;WEEE-Logo_4.2x6mm_SilkScreen;1;WEEE-Logo_4.2x6mm_SilkScreen;
+8;REF**;OSHW-Logo2_7.3x6mm_SilkScreen;1;OSHW-Logo2_7.3x6mm_SilkScreen;
+9;REF**;KiCad-Logo2_5mm_SilkScreen;1;KiCad-Logo2_5mm_SilkScreen;
+10;REF**;ESD-Logo_6.6x6mm_SilkScreen;1;ESD-Logo_6.6x6mm_SilkScreen;
+11;C1;C_1210_3225Metric;1;10uF;
+12;C2,C6;C_1206_3216Metric;2;1uF;
+13;C3,C4;C_0805_2012Metric;2;22nF;
+14;C5;C_1206_3216Metric;1;100uF;
+15;CONN1;TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal;1;PWR IN;
+16;CONN2;TerminalBlock_Phoenix_MPT-0,5-2-2.54_1x02_P2.54mm_Horizontal;1;PWR OUT;
+17;R1,R3;R_0805_2012Metric;2;32.4k;
+18;R2;R_0805_2012Metric;1;11.8k;
+19;R4;R_0805_2012Metric;1;1.87k;
+20;R5;R_0805_2012Metric;1;1.50k;
+21;TP4;TestPoint_Keystone_5010-5014_Multipurpose;1;GND;
+22;U1;TO-263-7_TabPin8;1;LMZ12003TZX;
+23;FID1,FID2,FID3;Fiducial_0.5mm_Mask1.5mm;3;Fiducial;
+24;H1,H2,H3,H4;MountingHole_3.2mm_M3_Pad_Via;4;MountingHole_Pad;
